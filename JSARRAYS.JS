@@ -1,2 +1,4 @@
-let friends = ["Imran, Ali, Ahmed, Asif,Ikklas"];
-console.log(friends);
+let friends = ["Imran", "Ali", "Hassan", "Aslam", "Ikhlas"];
+let bestfriend = friends[4];
+
+console.log(bestfriend);
